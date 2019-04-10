@@ -4,7 +4,7 @@
 
 	<groupId>com.xebialabs.congruencias</groupId>
 	<artifactId>congruencias</artifactId>
-	<version>3.0.0-SNAPSHOT</version>
+	<version>4.0.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<distributionManagement>
